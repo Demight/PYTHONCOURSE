@@ -13,4 +13,4 @@ elif user_choice == 'scissor' and computer_choice == "paper":
     print("Win")
 else:
     print("Computer win")
-Print("Thanks for playing!")
+print("Thanks for playing!")
